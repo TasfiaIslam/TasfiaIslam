@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hi 👋, I'm Tasfia,</h2>
-<h4> a programmer from Dhaka, Bangladesh.</h4>
-<h4>I love learning languages , frameworks and interesting stuff.</h4>
+<h4>A passionate JavaScript developer with a knack for building interactive web applications.</h4>
 
 - :blue_heart: Frameworks I love to work with and learn more - Next.js, React.js
 - 📫 How to reach me **tasfia.nabila.islam@gmail.com**
